@@ -2,10 +2,10 @@
 ## population
 
 
-## capital
+## capital - Delhi
 
  
-## official language
+## official language - Hindi
 
 
 ## interesting trivia

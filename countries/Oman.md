@@ -1,14 +1,14 @@
 ##Oman
-## population
+## population 4.636 million
 
 
-## capital
+## capital Muscat
 
  
-## official language
+## official language Arabic
 
 
-## interesting trivia
+## interesting trivia Oman has 16 languages.
 
 
 
